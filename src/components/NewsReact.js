@@ -61,7 +61,6 @@ function NewsReact() {
     );
   };
 
-
   return (
     <div className="all">
       <div className="top">
